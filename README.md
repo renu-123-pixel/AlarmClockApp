@@ -80,11 +80,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to generate or edit screenshots, or help with the actual code structure
