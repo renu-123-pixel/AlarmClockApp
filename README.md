@@ -63,8 +63,6 @@ AlarmClockApp/
 📌 To-Do / Improvements
  Add sound/vibration options
 
- Add snooze functionality
-
  Save alarms using Room or SharedPreferences
 
 🙋‍♀️ Author
