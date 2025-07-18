@@ -47,9 +47,7 @@ Sync Gradle and build the project.
 Run on an emulator or Android device.
 
 📁 Project Structure
-swift
-Copy
-Edit
+
 AlarmClockApp/
 ├── app/
 │   ├── java/com/example/alarmclock/
@@ -61,14 +59,13 @@ AlarmClockApp/
 │       └── values/
 ├── AndroidManifest.xml
 └── build.gradle
+
 📌 To-Do / Improvements
  Add sound/vibration options
 
  Add snooze functionality
 
  Save alarms using Room or SharedPreferences
-
- Dark mode support
 
 🙋‍♀️ Author
 Renu – GitHub Profile
