@@ -24,7 +24,7 @@ A simple yet functional Alarm Clock Android application built using Java and XML
 
 | Home Screen | Set Alarm | Alarm Notification |
 |-------------|------------|---------------------|
-| <img src="Activity_1.jpeg" width="200" /> | ![Set Alarm](screenshots/set_alarm.png) | ![Notification](screenshots/notification.png) |
+| <img src="Activity_1.jpeg" width="200" /> | <img src="Activity_2.jpeg" width="200"/> | <img src="Activity_3.jpeg" width="200"/> |
 
 ## 🚀 Getting Started
 
