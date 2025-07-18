@@ -22,7 +22,7 @@ A simple yet functional Alarm Clock Android application built using Java and XML
 
 ## 📷 Screenshots
 
-| Home Screen | Set Alarm | Alarm Notification |
+| Home Screen | Set Alarm | Snooze dismiss Alarm |
 |-------------|------------|---------------------|
 | <img src="Activity_1.jpeg" width="200" /> | <img src="Activity_2.jpeg" width="200"/> | <img src="Activity_3.jpeg" width="200"/> |
 
